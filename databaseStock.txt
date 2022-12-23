@@ -1,0 +1,4 @@
+KoinLaundry_2021_01, Koin Laundry,10
+Deterjen_2021_01, Deterjen,20
+Softener_2021_01, Softener,20
+ScentBooster_2021_01, Scent Booster,20
